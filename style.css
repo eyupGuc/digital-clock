@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Orbitron;
+}
+
+.container {
+  border: 2px solid red;
+  margin: 4rem 2rem;
+  height: 40vh;
+  width: 50vw;
+  color: #17d4fe;
+
+  background-color: blanchedalmond;
+}
+
+#rectangle {
+  border: 2px solid green;
+  text-align: center;
+}
