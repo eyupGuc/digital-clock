@@ -9,9 +9,9 @@ body {
 
 .container {
   margin: 4rem 2rem;
-  height: 50vh;
-  width: 50vw;
-  color: #17d4fe;
+  height: 400px;
+  width: 400px;
+  color: black;
   display: flex;
   align-items: center;
   justify-content: center;
