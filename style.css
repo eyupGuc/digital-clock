@@ -10,14 +10,18 @@ body {
 .container {
   border: 2px solid red;
   margin: 4rem 2rem;
-  height: 40vh;
+  height: 30vh;
   width: 50vw;
   color: #17d4fe;
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: blanchedalmond;
+  border-radius: 2rem;
+  box-shadow: 5px 10px #888888;
 }
 
-#rectangle {
+.rectangle {
   border: 2px solid green;
-  text-align: center;
+  font-size: 3rem;
 }
