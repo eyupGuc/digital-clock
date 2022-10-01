@@ -1,3 +1,9 @@
+//! selectors
+
+const year = new Date().getFullYear();
+const month = new Date().getMonth();
+console.log(month);
+
 setInterval(myTimer, 1000);
 
 function myTimer() {
